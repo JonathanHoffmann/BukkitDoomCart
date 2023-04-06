@@ -1,2 +1,3 @@
 # BukkitDoomCart
-Build for a forum request. Should also check if the vehicle is a minecrat.
+Build for a forum request.<br />
+Players cannot exit Minecarts. Kills player on destruction of their minecart (If enabled in config).
